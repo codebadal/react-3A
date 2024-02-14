@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.img-cont{
+    background: #5a5997;
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
